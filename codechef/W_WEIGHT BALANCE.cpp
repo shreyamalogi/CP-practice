@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/WEIGHTBL
-//AUTHOR: shreyamalogi
+//AUTHOR: shreyamalogi.
 
 #include <bits/stdc++.h>
 
