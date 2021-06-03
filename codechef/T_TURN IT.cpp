@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/NFS
-//author: shreyamalogi
+//author: shreyamalogi.
 
 #include<bits/stdc++.h>
 using namespace std;
