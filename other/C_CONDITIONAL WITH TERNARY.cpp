@@ -1,4 +1,4 @@
-//conditional with ternary
+//conditional with ternary.
 
 #include<iostream>
 using namespace std;
