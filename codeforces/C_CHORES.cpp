@@ -1,5 +1,5 @@
 //https://codeforces.com/problemset/problem/873/A
-//AUTHOR : shreyamalogi
+//AUTHOR : shreyamalogi.
 
 #include <bits/stdc++.h>
 
