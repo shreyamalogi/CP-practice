@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/day-of-the-week/
-// AUTHOR : shreyamalogi
+// AUTHOR : shreyamalogi.
 
 class Solution {
 public:
