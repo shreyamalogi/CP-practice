@@ -1,5 +1,5 @@
 //https://www.codechef.com/problems/TLG
-//AUTHOR: shreyamalogi
+//AUTHOR: shreyamalogi.
 
 #include <bits/stdc++.h>
 
