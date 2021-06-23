@@ -1,4 +1,4 @@
-//data abstraction
+//data abstraction.
 //
 //* data abstraction refers to providing only essential information to the outside world and hiding the background details.
 
